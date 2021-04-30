@@ -13,7 +13,7 @@
 
 | Title                                                        | Venue |                             PDF                              |                       CODE                        |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :-----------------------------------------------: |
-| Rethinking the Route Towards Weakly Supervised Object Localization | arXiv |         [PDF](https://arxiv.org/pdf/2002.11359.pdf)          |                         -                         |
+| Rethinking the Route Towards Weakly Supervised Object Localization | arXiv |         [PDF](https://arxiv.org/pdf/2002.11359.pdf)          |                         [CODE](https://github.com/tzzcl/PSOL)                         |
 | Combinational Class Activation Maps for Weakly Supervised Object Localization | WACV  | [PDF](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_Activation_Maps_for_Weakly_Supervised_Object_Localization_WACV_2020_paper.pdf) |   [CODE](https://github.com/Yangseung/NL-CCAM)    |
 | Inter-Image Communication for Weakly Supervised Localization | ECCV  | [PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640273.pdf) |     [CODE](https://github.com/xiaomengyc/I2C)     |
 | Geometry Constrained Weakly Supervised Object Localization   | ECCV  | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710477.pdf) |                         -                         |
