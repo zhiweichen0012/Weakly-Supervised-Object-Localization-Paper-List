@@ -3,7 +3,14 @@
 # Weakly Supervised Object Localization Paper List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 *NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/zhiweichen95/Weakly-Supervised-Object-Localization-Paper-List/issues).
 
+## 2021
+| Title                                                        | Venue |                   PDF                   |                        CODE                        |
+| :----------------------------------------------------------- | :---: | :-------------------------------------: | :------------------------------------------------: |
+| TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2103.14862) | [CODE](https://github.com/ICCV-2021-TS-CAM/TS-CAM) |
+
+
 ## 2020
+
 | Title                                                        | Venue |                             PDF                              |                       CODE                        |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :-----------------------------------------------: |
 | Rethinking the Route Towards Weakly Supervised Object Localization | arXiv |         [PDF](https://arxiv.org/pdf/2002.11359.pdf)          |                         -                         |
