@@ -4,9 +4,12 @@
 *NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/zhiweichen95/Weakly-Supervised-Object-Localization-Paper-List/issues).
 
 ## 2021
-| Title                                                        | Venue |                   PDF                   |                        CODE                        |
-| :----------------------------------------------------------- | :---: | :-------------------------------------: | :------------------------------------------------: |
-| TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2103.14862) | [CODE](https://github.com/ICCV-2021-TS-CAM/TS-CAM) |
+| Title                                                        | Venue |                             PDF                              |                        CODE                        |
+| :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :------------------------------------------------: |
+| TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | arXiv |           [PDF](https://arxiv.org/pdf/2103.14862)            | [CODE](https://github.com/ICCV-2021-TS-CAM/TS-CAM) |
+| Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Pan_Unveiling_the_Potential_of_Structure_Preserving_for_Weakly_Supervised_Object_CVPR_2021_paper.html) |  [CODE](https://github.com/Panxjia/SPA_CVPR2021)   |
+| Strengthen Learning Tolerance for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.html) |                         -                          |
+| Shallow Feature Matters for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Wei_Shallow_Feature_Matters_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.html) |                         -                          |
 
 
 ## 2020
