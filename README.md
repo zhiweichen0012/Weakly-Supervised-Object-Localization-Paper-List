@@ -6,10 +6,11 @@
 ## 2021
 | Title                                                        | Venue |                             PDF                              |                        CODE                        |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :------------------------------------------------: |
-| TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | arXiv |           [PDF](https://arxiv.org/pdf/2103.14862)            | [CODE](https://github.com/ICCV-2021-TS-CAM/TS-CAM) |
-| Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Pan_Unveiling_the_Potential_of_Structure_Preserving_for_Weakly_Supervised_Object_CVPR_2021_paper.html) |  [CODE](https://github.com/Panxjia/SPA_CVPR2021)   |
-| Strengthen Learning Tolerance for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.html) |                         -                          |
-| Shallow Feature Matters for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Wei_Shallow_Feature_Matters_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.html) |                         -                          |
+| LayerCAM: Exploring Hierarchical Class Activation Maps for Localization	 | TIP |           [PDF](http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf)            | [CODE](https://github.com/PengtaoJiang/LayerCAM) |
+| TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | arXiv |           [PDF](https://arxiv.org/pdf/2103.14862)            | [CODE](https://github.com/vasgaowei/TS-CAM) |
+| Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Kou_Improve_CAM_With_Auto-Adapted_Segmentation_and_Co-Supervised_Augmentation_WACV_2021_paper.pdf) |  [CODE](https://github.com/Panxjia/SPA_CVPR2021)   |
+| Strengthen Learning Tolerance for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.pdf) |                         -                          |
+| Shallow Feature Matters for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_Shallow_Feature_Matters_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.pdf) |                         -                          |
 
 
 ## 2020
@@ -19,7 +20,7 @@
 | Rethinking the Route Towards Weakly Supervised Object Localization | arXiv |         [PDF](https://arxiv.org/pdf/2002.11359.pdf)          |                         [CODE](https://github.com/tzzcl/PSOL)                         |
 | Combinational Class Activation Maps for Weakly Supervised Object Localization | WACV  | [PDF](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_Combinational_Class_Activation_Maps_for_Weakly_Supervised_Object_Localization_WACV_2020_paper.pdf) |   [CODE](https://github.com/Yangseung/NL-CCAM)    |
 | Inter-Image Communication for Weakly Supervised Localization | ECCV  | [PDF](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640273.pdf) |     [CODE](https://github.com/xiaomengyc/I2C)     |
-| Geometry Constrained Weakly Supervised Object Localization   | ECCV  | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710477.pdf) |                         -                         |
+| Geometry Constrained Weakly Supervised Object Localization   | ECCV  | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123710477.pdf) |                         [CODE](https://github.com/lwzeng/GC-Net)                         |
 | Evaluating Weakly Supervised Object Localization Methods Right | CVPR  |         [PDF](https://arxiv.org/pdf/2001.07437.pdf)          | [CODE](https://github.com/clovaai/wsolevaluation) |
 | Erasing Integrated Learning: A Simple Yet Effective Approach for Weakly Supervised Object Localization | CVPR  | [PDF](http://openaccess.thecvf.com/content_CVPR_2020/papers/Mai_Erasing_Integrated_Learning_A_Simple_Yet_Effective_Approach_for_Weakly_CVPR_2020_paper.pdf) |                         -                         |
 
