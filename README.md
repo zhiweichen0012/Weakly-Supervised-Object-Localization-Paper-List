@@ -6,6 +6,7 @@
 ## 2021
 | Title                                                        | Venue |                             PDF                              |                        CODE                        |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :------------------------------------------------: |
+| E^2Net : Excitative-Expansile Learning for Weakly Supervised Object Localization. | ACM MM |           [PDF]()            | [CODE]() |
 | LayerCAM: Exploring Hierarchical Class Activation Maps for Localization	 | TIP |           [PDF](http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf)            | [CODE](https://github.com/PengtaoJiang/LayerCAM) |
 | TS-CAM: Token Semantic Coupled Attention Map for Weakly Supervised Object Localization | arXiv |           [PDF](https://arxiv.org/pdf/2103.14862)            | [CODE](https://github.com/vasgaowei/TS-CAM) |
 | Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization | CVPR  | [PDF](https://openaccess.thecvf.com/content/WACV2021/papers/Kou_Improve_CAM_With_Auto-Adapted_Segmentation_and_Co-Supervised_Augmentation_WACV_2021_paper.pdf) |  [CODE](https://github.com/Panxjia/SPA_CVPR2021)   |
