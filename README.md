@@ -6,6 +6,7 @@
 
 | Title                                                        | Venue |                             PDF                              |                        CODE                        |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :------------------------------------------------: |
+| F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling | WACV |           [PDF](https://arxiv.org/pdf/2109.07069v2.pdf)            | [CODE](https://github.com/sbelharbi/fcam-wsol) |
 | E^2Net : Excitative-Expansile Learning for Weakly Supervised Object Localization | ACM MM |           [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475211)            | [CODE]() |
 | LayerCAM: Exploring Hierarchical Class Activation Maps for Localization	 | TIP |           [PDF](http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf)            | [CODE](https://github.com/PengtaoJiang/LayerCAM) |
 | Foreground Activation Maps for Weakly Supervised Object Localization	 | ICCV |           [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Foreground_Activation_Maps_for_Weakly_Supervised_Object_Localization_ICCV_2021_paper.pdf)            | - |
