@@ -1,13 +1,21 @@
 # Weakly Supervised Object Localization Paper List [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/zhiweichen95/Weakly-Supervised-Object-Localization-Paper-List/issues).
+*NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/zhiweichen0012/Weakly-Supervised-Object-Localization-Paper-List/issues).
+
+## 2022
+
+| Title                                                        | Venue |                             PDF                              |                    CODE                    |
+| :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
+| LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization | AAAI  | [PDF]() | [CODE](https://github.com/zhiweichen0012/LCTR) |
+
+
 
 ## 2021
 
 | Title                                                        | Venue |                             PDF                              |                        CODE                        |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :------------------------------------------------: |
 | F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling | WACV |           [PDF](https://arxiv.org/pdf/2109.07069v2.pdf)            | [CODE](https://github.com/sbelharbi/fcam-wsol) |
-| E^2Net : Excitative-Expansile Learning for Weakly Supervised Object Localization | ACM MM |           [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475211)            | [CODE]() |
+| E^2Net : Excitative-Expansile Learning for Weakly Supervised Object Localization | ACM MM |           [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3475211)            | [CODE](https://github.com/zhiweichen0012/E2Net) |
 | LayerCAM: Exploring Hierarchical Class Activation Maps for Localization	 | TIP |           [PDF](http://mftp.mmcheng.net/Papers/21TIP_LayerCAM.pdf)            | [CODE](https://github.com/PengtaoJiang/LayerCAM) |
 | Foreground Activation Maps for Weakly Supervised Object Localization	 | ICCV |           [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Foreground_Activation_Maps_for_Weakly_Supervised_Object_Localization_ICCV_2021_paper.pdf)            | - |
 | Online Refinement of Low-level Feature Based Activation Map for Weakly Supervised Object Localization	 | ICCV |           [PDF](https://openaccess.thecvf.com/content/ICCV2021/html/Xie_Online_Refinement_of_Low-Level_Feature_Based_Activation_Map_for_Weakly_ICCV_2021_paper.html)            | [CODE](https://github.com/Sierkinhane/ORNet) |
