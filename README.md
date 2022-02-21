@@ -8,6 +8,7 @@
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
 | Diverse Complementary Part Mining for Weakly Supervised Object Localization | TIP |  [PDF](https://ieeexplore.ieee.org/abstract/document/9700771)| -  |
 | CaFT: Clustering and Filter on Tokens of Transformer for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2201.00475.pdf) | - |
+| Background-aware Classification Activation Map for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2112.14379.pdf) | - |
 | LCTR: On Awakening the Local Continuity of Transformer for Weakly Supervised Object Localization | AAAI  | [PDF](https://arxiv.org/pdf/2112.05291.pdf) | [CODE](https://github.com/zhiweichen0012/LCTR) |
 | Background Activation Suppression for Weakly Supervised Object Localization | arXiv  | [PDF](https://arxiv.org/pdf/2112.00580.pdf) | [CODE](https://github.com/wpy1999/BAS) |
 
