@@ -7,7 +7,7 @@
 | Title                                                        | Venue |                             PDF                              |                    CODE                    |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
 | ViTOL: Vision Transformer for Weakly Supervised Object Localization | CVPR Workshop | [PDF](https://arxiv.org/pdf/2204.06772.pdf) | [CODE](https://github.com/Saurav-31/ViTOL) |
-| Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization | CVPR | [PDF](https://arxiv.org/pdf/2204.00220.pdf) | - |
+| Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization | CVPR | [PDF](https://arxiv.org/pdf/2204.00220.pdf) | [CODE](https://github.com/ejkim47/bridging-gap-wsol) |
 | Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2203.13505.pdf) | [CODE](https://github.com/CVI-SZU/CCAM) |
 | Weakly Supervised Object Localization as Domain Adaption | CVPR | [PDF](https://arxiv.org/abs/2203.01714) | [CODE](https://github.com/zh460045050/DA-WSOL_CVPR2022) |
 | Background Activation Suppression for Weakly Supervised Object Localization | CVPR | [PDF](https://arxiv.org/pdf/2112.00580.pdf) | [CODE](https://github.com/wpy1999/BAS) |
