@@ -6,6 +6,7 @@
 
 | Title                                                        | Venue |                             PDF                              |                    CODE                    |
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
+| Bagging Regional Classification Activation Maps for Weakly Supervised Object Localization | ECCV | [PDF](https://arxiv.org/pdf/2207.07818.pdf) | [CODE](https://github.com/zh460045050/BagCAMs) |
 | ViTOL: Vision Transformer for Weakly Supervised Object Localization | CVPR Workshop | [PDF](https://arxiv.org/pdf/2204.06772.pdf) | [CODE](https://github.com/Saurav-31/ViTOL) |
 | CREAM: Weakly Supervised Object Localization via Class RE-Activation Mapping | CVPR | [PDF](https://arxiv.org/pdf/2205.13922) | [CODE](https://github.com/Jazzcharles/CREAM) |
 | Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization | CVPR | [PDF](https://arxiv.org/pdf/2204.00220.pdf) | [CODE](https://github.com/ejkim47/bridging-gap-wsol) |
