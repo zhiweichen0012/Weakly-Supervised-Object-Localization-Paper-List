@@ -8,6 +8,7 @@
 | :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
 | Adversarial Transformers for Weakly Supervised Object Localization | TIP | [PDF](https://ieeexplore.ieee.org/abstract/document/9945986) | - |
 | Re-Attention Transformer for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2208.01838.pdf) | [CODE](https://github.com/su-hui-zz/ReAttentionTransformer) |
+| Weakly supervised object localization through inter-class feature similarity and intra-class appearance consistency | ECCV | [PDF](https://mypage.cuhk.edu.cn/academics/lizhen/static/PDF/6-ECCV-WSOL.pdf) | - |
 | Weakly Supervised Object Localization via Transformer with Implicit Spatial Calibration | ECCV | [PDF](https://arxiv.org/pdf/2207.10447.pdf) | [CODE](https://github.com/164140757/SCM) |
 | Bagging Regional Classification Activation Maps for Weakly Supervised Object Localization | ECCV | [PDF](https://arxiv.org/pdf/2207.07818.pdf) | [CODE](https://github.com/zh460045050/BagCAMs) |
 | ViTOL: Vision Transformer for Weakly Supervised Object Localization | CVPR Workshop | [PDF](https://arxiv.org/pdf/2204.06772.pdf) | [CODE](https://github.com/Saurav-31/ViTOL) |
