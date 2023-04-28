@@ -2,6 +2,14 @@
 
 *NOTE:* If I missed your paper, plese feel free to [raise an issue](https://github.com/zhiweichen0012/Weakly-Supervised-Object-Localization-Paper-List/issues).
 
+## 2023
+
+| Title                                                        | Venue |                             PDF                              |                    CODE                    |
+| :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :----------------------------------------: |
+| SDiscriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization | WACV (Workshops) | [PDF](https://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Murtaza_Discriminative_Sampling_of_Proposals_in_Self-Supervised_Transformers_for_Weakly_Supervised_WACVW_2023_paper.pdf) | [CODE](https://github.com/shakeebmurtaza/dips) |
+| Open-World Weakly-Supervised Object Localization | arXiv | [PDF](https://ieeexplore.ieee.org/abstract/document/9945986) | [CODE](https://github.com/ryylcc/OWSOL) |
+| Spatial-Aware Token for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2303.10438.pdf) | [CODE](https://github.com/wpy1999/SAT) |
+
 ## 2022
 
 | Title                                                        | Venue |                             PDF                              |                    CODE                    |
