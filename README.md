@@ -9,11 +9,11 @@
 | Evaluation for Weakly Supervised Object Localization: Protocol, Metrics, and Datasets | TPAMI | [PDF](https://ieeexplore.ieee.org/document/9762560) | - |
 | Task-Aware Weakly Supervised Object Localization With Transformer | TPAMI | [PDF](https://ieeexplore.ieee.org/document/9996553) | - |
 | Generative Prompt Model for Weakly Supervised Object Localization | ICCV | [PDF](https://arxiv.org/abs/2307.09756) | [CODE](https://github.com/callsys/GenPromp) |
+| Spatial-Aware Token for Weakly Supervised Object Localization | ICCV | [PDF](https://arxiv.org/pdf/2303.10438.pdf) | [CODE](https://github.com/wpy1999/SAT) |
 | Category-aware Allocation Transformer for Weakly Supervised Object Localization | ICCV | PDF | [CODE](https://github.com/zhiweichen0012/CATR) |
 | Coarse2Fine: Local Consistency Aware Re-prediction for Weakly Supervised Object Localization | AAAI | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/25292/25064) | - |
 | SDiscriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization | WACV (Workshops) | [PDF](https://openaccess.thecvf.com/content/WACV2023W/RWS/papers/Murtaza_Discriminative_Sampling_of_Proposals_in_Self-Supervised_Transformers_for_Weakly_Supervised_WACVW_2023_paper.pdf) | [CODE](https://github.com/shakeebmurtaza/dips) |
 | Open-World Weakly-Supervised Object Localization | arXiv | [PDF](https://ieeexplore.ieee.org/abstract/document/9945986) | [CODE](https://github.com/ryylcc/OWSOL) |
-| Spatial-Aware Token for Weakly Supervised Object Localization | arXiv | [PDF](https://arxiv.org/pdf/2303.10438.pdf) | [CODE](https://github.com/wpy1999/SAT) |
 
 ## 2022
 
